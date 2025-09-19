@@ -1,4 +1,4 @@
-# ¡Hola! Soy Borja Pardo Juanes 👋
+# ¡Hola! Soy Borja Pardo 👋
 
 <a href="https://github.com/eltitoborja">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=eltitoborja&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
