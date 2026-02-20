@@ -5,7 +5,7 @@
 Apasionado por construir soluciones tecnológicas funcionales y bien diseñadas. Me muevo cómodo tanto en frontend como en backend, y disfruto especialmente cuando ambos lados del stack encajan a la perfección. Siempre aprendiendo, siempre construyendo.
 
 <a href="https://github.com/CalvaryBloom">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CalvaryBloom&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="center" src="[https://github-readme-stats.vercel.app/api?username=CalvaryBloom&show_icons=true&theme=dracula&include_all_commits=true&count_private=true](https://github-stats-alpha.vercel.app/api?username=CalvaryBloom&cc=22272e&tc=37BCF6&ic=fff&bc=0000)"/>
 </a>
 
 ---
