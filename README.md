@@ -1,6 +1,6 @@
 # Borja Pardo Juanes 👨‍💻
 
-**Desarrollador de Aplicaciones Multiplataforma** · Graduado en DAM
+**Desarrollador de Aplicaciones Multiplataforma** · Formación en Desarrollo de Aplicaciones Multiplataforma (DAM)
 
 Apasionado por construir soluciones tecnológicas funcionales y bien diseñadas. Me muevo cómodo tanto en frontend como en backend, y disfruto especialmente cuando ambos lados del stack encajan a la perfección. Siempre aprendiendo, siempre construyendo.
 
@@ -57,6 +57,8 @@ Apasionado por construir soluciones tecnológicas funcionales y bien diseñadas.
 ---
 
 ## 💼 Experiencia
+
+Desarrollador Backend Java — Indra (2026): desarrollo de endpoints REST y pantallas de gestión en SIHSU, plataforma sanitaria de la Generalitat Valenciana, con Java, Spring y tests unitarios (JUnit, Mockito), en remoto.
 
 **Desarrollador Full Stack — Prácticas profesionales**
 
